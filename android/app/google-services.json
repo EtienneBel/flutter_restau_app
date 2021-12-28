@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "383573503861",
+    "project_id": "restaurant-app-2e31e",
+    "storage_bucket": "restaurant-app-2e31e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383573503861:android:5bd943f574005d71baad3c",
+        "android_client_info": {
+          "package_name": "gnegre.restau_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383573503861-mvdfhv2hipcfgu0mrqf8d52pskvhuj21.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzISmX2w1LW12WQ_NfWQx3AeSP9feAuGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383573503861-mvdfhv2hipcfgu0mrqf8d52pskvhuj21.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
